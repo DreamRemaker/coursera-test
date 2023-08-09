@@ -1,0 +1,11 @@
+<!doctype html>
+<html>
+    <head>
+        <title>
+            MyFirstPage
+        </title>
+    </head>
+    <body>
+        <a href="index.html">Go back to main page</a>
+    </body>
+</html>
