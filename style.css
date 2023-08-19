@@ -28,6 +28,7 @@
   
   .box-content {
     border: 3px solid black;
+    /* I set this to 3px because 1px does not look notable. */
     background-color: grey;
     height: 170px;
     margin-right: auto;
